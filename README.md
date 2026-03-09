@@ -12,6 +12,19 @@ npm port of [@std/semver](https://jsr.io/@std/semver).
 npm i std-semver
 ```
 
+## Usage
+
+```ts
+import { format, greaterThan, lessThan, parse, parseRange } from 'std-semver'
+
+const semver = parse('1.2.3')
+const range = parseRange('1.x || >=2.5.0 || 5.0.0 - 7.2.3')
+const s0 = parse('1.2.3')
+const s1 = parse('9.8.7')
+```
+
+More APIs and details can be found in the [original `@std/semver`](https://jsr.io/@std/semver).
+
 ## License
 
 [MIT](./LICENSE) License © 2026-PRESENT [Kevin Deng](https://github.com/sxzz)
